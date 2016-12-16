@@ -41,13 +41,9 @@ class Plugin {
 			if ( '' != $phylax_ppsccss_css ) {
 				# mamy css!
 				if ( is_single() || is_page() ) {
-					$content.= 'XXX';
 					$content = $this->join( $content, $phylax_ppsccss_css );
 				} elseif ( '0' == $phylax_ppsccss_single_only ) {
-					$content.= 'YYY';
 					$content = $this->join( $content, $phylax_ppsccss_css );
-				} else {
-					$content.= 'ZZZ';
 				}
 			}
 		}
