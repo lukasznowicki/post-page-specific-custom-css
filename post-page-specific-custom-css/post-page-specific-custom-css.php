@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Post/Page specific custom CSS
- * Plugin URI: https://github.com/lukasznowicki/post-page-specific-custom-css/
+ * Plugin URI: https://wordpress.org/plugins/postpage-specific-custom-css/
  * Description: Post/Page specific custom CSS will allow you to add cascade stylesheet to specific posts/pages. It will give you special area in the post/page edit field to attach your CSS. It will also let you decide if this CSS has to be added in multi-page/post view (like archive posts) or only in a single view.
  * Version: 0.1.0
  * Author: Łukasz Nowicki

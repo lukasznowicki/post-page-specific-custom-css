@@ -4,7 +4,7 @@ Tags: CSS, custom, post, page, specific, custom CSS, specific page, specific pos
 Requires at least: 4.7
 Tested up to: 4.7
 Contributors: lukasznowicki
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZUE7KNWHW3CJ4
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LEXEGNRGEF7H4
 Stable tag: 0.1.0
 
 Post/Page specific custom CSS will allow you to add cascade stylesheet to specific posts/pages. It will give you special area in the post/page edit field to attach your CSS. It will also let you decide if this CSS has to be added in multi-page/post view (like archive posts) or only in a single view.
