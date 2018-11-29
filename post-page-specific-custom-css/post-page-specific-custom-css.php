@@ -123,7 +123,7 @@ class Plugin {
 			</p>
 			<p>
 				<?php
-				echo __( 'Please add only valid CSS code, it will be placed between &lt;script&gt; tags.', 'phylaxppsccss' ); ?>
+				echo __( 'Please add only valid CSS code, it will be placed between &lt;style&gt; tags.', 'phylaxppsccss' ); ?>
 			</p>
 <?php
 	}
